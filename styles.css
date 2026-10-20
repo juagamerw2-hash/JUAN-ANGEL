@@ -1,15 +1,38 @@
 body {
-    font-family: Arial, sans-serif;
-    background: #f0f4f8;
+    font-family: Arial;
+    background-color: lightblue;
     text-align: center;
-    padding: 50px;
+    margin: 30px;
 }
-h1 { color: #2563eb; }
-button {
-    padding: 12px 20px;
-    background: #2563eb;
+
+.tarjeta {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.encabezado {
+    background-color: steelblue;
     color: white;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
+    padding: 20px;
+}
+
+.icono {
+    font-size: 35px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+.presentacion {
+    margin: 20px;
+}
+
+.habilidades {
+    margin: 20px;
+}
+
+p {
+    font-size: 16px;
 }
